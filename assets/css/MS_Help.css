@@ -1,0 +1,255 @@
+/*Created with Adobe RoboHelp Classic 2019.*/
+body {
+  background-color: #ffffff;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Roboto Medium";
+}
+
+p {
+  text-align: left;
+  margin-top: 3pt;
+  box-sizing: inherit;
+  margin: 0px 0px 12px;
+  padding: 0px;
+  color: inherit;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Noto Sans", "Noto Sans JP", "Noto Sans KR", "Noto Naskh Arabic", "Noto Sans Thai", "Noto Sans Hebrew", "Noto Sans Bengali", sans-serif;
+  font-weight: inherit;
+  font-size: 9pt;
+  line-height: inherit;
+  margin-bottom: 6px;
+  margin-left: 6px;
+}
+
+LI.p {
+  text-align: left;
+  box-sizing: inherit;
+  color: inherit;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Noto Sans", "Noto Sans JP", "Noto Sans KR", "Noto Naskh Arabic", "Noto Sans Thai", "Noto Sans Hebrew", "Noto Sans Bengali", sans-serif;
+  font-weight: inherit;
+  font-size: 9pt;
+  line-height: Normal;
+}
+
+h1 {
+  mso-list: l18 level1 lfo6;
+  font-size: 18pt;
+  font-weight: bold;
+  font-family: Roboto;
+}
+
+LI.h1 {
+  mso-list: l18 level1 lfo6;
+  font-size: 18pt;
+  font-weight: bold;
+  font-family: "Roboto Medium";
+}
+
+h2 {
+  color: #000000;
+  font-family: "Roboto Medium";
+  font-weight: normal;
+  mso-bidi-font-weight: normal;
+  font-size: 13.0pt;
+  line-height: 150%;
+  margin-bottom: 9pt;
+}
+
+LI.h2 {
+  color: #000000;
+  font-family: "Roboto Medium";
+  font-weight: normal;
+  mso-bidi-font-weight: normal;
+  font-size: 13.0pt;
+  line-height: 150%;
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 10.0pt;
+  color: #000000;
+  font-family: "Roboto Medium";
+}
+
+LI.h3 {
+  font-weight: normal;
+  font-size: 10.0pt;
+  color: #000000;
+  font-family: "Roboto Medium";
+}
+
+h4 {
+  font-weight: normal;
+  font-size: 10.0pt;
+  color: #000000;
+  font-family: "Roboto Medium";
+}
+
+LI.h4 {
+  font-weight: normal;
+  font-size: 10.0pt;
+  color: #000000;
+  font-family: "Roboto Medium";
+}
+
+h5 {
+  font-weight: normal;
+  font-size: 10.0pt;
+  color: #000000;
+  font-family: "Roboto Medium";
+}
+
+LI.h5 {
+  font-weight: normal;
+  font-size: 10.0pt;
+  color: #000000;
+  font-family: "Roboto Medium";
+}
+
+h6 {
+  font-weight: normal;
+  font-size: 10.0pt;
+  color: #000000;
+  font-family: "Roboto Medium";
+}
+
+LI.h6 {
+  font-weight: normal;
+  font-size: 10.0pt;
+  color: #000000;
+  font-family: "Roboto Medium";
+}
+
+a {
+  color: #0000ff;
+  display: inline;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Roboto Medium";
+  text-decoration: underline;
+}
+
+a.breadcrumbs {
+  display: inline;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Roboto Medium";
+}
+
+a:link {
+  color: #0000ff;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #0000ff;
+  text-decoration: underline;
+}
+
+a.expandspot {
+  cursor: hand;
+  font-style: italic;
+  display: inline;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Roboto Medium";
+  x-on-pageclick: blur();
+  color: #0000ff;
+  text-decoration: none;
+}
+
+span.expandtext {
+  font-style: italic;
+  font-weight: normal;
+  color: #ff0000;
+}
+
+a.dropspot {
+  cursor: hand;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Roboto Medium";
+  display: block;
+  font-size: 13pt;
+  color: #0000ff;
+  text-decoration: none;
+}
+
+a.glossterm {
+  color: #800000;
+  cursor: hand;
+  font-style: italic;
+  display: inline;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Roboto Medium";
+  text-decoration: none;
+}
+
+span.glosstext {
+  font-style: italic;
+  font-weight: normal;
+  color: #0000ff;
+}
+
+ol,
+ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Roboto Medium";
+}
+
+div.container {
+  min-height: 10em;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+p.breadcrumbs {
+  font-family: "Roboto Medium";
+}
+
+LI.p-breadcrumbs {
+  font-family: "Roboto Medium";
+}
+
+li.ZK {}
+
+p.Numbering {}
+
+LI.p-Numbering {}
+
+p.Style1 {
+  color: #000000;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Roboto Medium";
+  text-align: left;
+  margin-top: 3pt;
+  margin-bottom: 3pt;
+  font-size: 8pt;
+}
+
+LI.p-Style1 {
+  color: #000000;
+  font-family: Roboto, "Roboto Medium", "Roboto Light", "Roboto Thin", "Roboto Condensed", "Roboto Black", "Roboto Medium";
+  text-align: left;
+  font-size: 8pt;
+}
+
+p.Code {
+  color: #000000;
+  text-align: left;
+  margin-top: 3pt;
+  margin-bottom: 3pt;
+  font-family: Consolas;
+  font-size: 8pt;
+}
+
+LI.p-Code {
+  color: #000000;
+  text-align: left;
+  font-family: Consolas;
+  font-size: 8pt;
+}
+
+img.Twisties {
+  width: 300px;
+  height: 300px;
+}
+
+img.Twisties1 {
+  width: 300px;
+  height: 150px;
+}
+
+img.CopyofTwisties {
+  width: 300pt;
+  height: 150pt;
+}
